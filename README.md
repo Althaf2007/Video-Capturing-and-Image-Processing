@@ -21,6 +21,7 @@ Jupyter Notebook / Google Colab
 
 OpenCV (Open Source Computer Vision Library) is widely used for image processing and computer vision applications.
 In this experiment:
+
 The webcam is accessed using OpenCV.
 A single image frame is captured and stored.
 Live video frames are displayed continuously.
