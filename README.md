@@ -6,6 +6,7 @@ To capture images and process live video frames using the OpenCV library in Pyth
 # Requirement
 
 Hardware Requirements
+
 Laptop/Desktop with Webcam
 Minimum 4 GB RAM
 
